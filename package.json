@@ -16,5 +16,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/bodaghialib4/simple_nodejs_jwt_api_backend.git"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
   }
 }

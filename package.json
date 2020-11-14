@@ -1,12 +1,20 @@
 {
   "name": "simple_nodejs_jwt_api_backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Simple NodeJS beckend app supports JWT API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "NodeJS",
+    "JWT"
+  ],
+  "author": "Ali Bodaghi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bodaghialib4/simple_nodejs_jwt_api_backend.git"
+  }
 }

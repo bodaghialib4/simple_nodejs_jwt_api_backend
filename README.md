@@ -17,6 +17,16 @@ Starts on **port 3100**
 -------
 
 
+The static defined name and password:
+
+|  Name   | Password |                                                       
+|---------|----------|
+|  ali    |   ali    | 
+| example |  qwerty  | 
+
+
+---------
+
 This repository is only contain the frontend part.
 
 The frontend part of this app (a simple ReactJS app) located 
